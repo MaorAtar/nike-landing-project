@@ -1,8 +1,7 @@
 
 # Nike Clone Landing Page
 
-Welcome to the Nike Clone Landing Page project! This is a stunning replica of Nike's iconic landing page, built using React and Tailwind CSS. It's not just a tribute to one of the world's most renowned brands but also a testament to the power of modern web development tools.
-
+Welcome to the Nike Clone Landing Page project! This is a replica of Nike's iconic landing page, built using React and Tailwind CSS. 
 
 ## Getting Started
 
